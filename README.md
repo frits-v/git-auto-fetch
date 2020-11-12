@@ -10,7 +10,7 @@ Automatically fetches all changes from all remotes while you are working in git-
 
 1. Clone this repo in your zprezto-contrib folder (eg ~/.zprezto-contrib)
 ```shell
-cd ~/.zprezto-contrib && git pull git@github.com:frots/git-auto-fetch.git
+cd ~/.zprezto-contrib && git clone git@github.com:frots/git-auto-fetch.git
 ```
 1. Add module to your prezto pmodule line:
 ```shell
